@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Gaurav Singhal
 
-🎓 BCA Student from New Delhi, India 🇮🇳 
+🎓 BCA Student from New Delhi, India
 💻 Passionate about Software Development  
 🚀 Currently learning Python, Web Development & Data Science  
 
@@ -19,7 +19,7 @@
 
 # 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsinghal166&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -31,7 +31,7 @@
 
 # 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghal166&layout=compact&theme=tokyonight)
 
 ---
 
