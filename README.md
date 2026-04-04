@@ -42,10 +42,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gauravsinghal166)]
-
----
-
 # 🌐 Connect With Me
 
 LinkedIn  
