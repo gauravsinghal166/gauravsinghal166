@@ -70,6 +70,28 @@
 [Instagram](https://www.instagram.com/gauravsinghal_16?igsh=Y3dqMHlsanlqd2Nh/)
 [YouTube](https://youtube.com/)
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/yourusername">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://twitter.com/yourusername">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+
+<a href="https://instagram.com/yourusername">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<a href="https://youtube.com/@yourchannel">
+<img src="https://skillicons.dev/icons?i=youtube" height="40"/>
+</a>
+
+</p>
+
 ---
 
 ⭐ From [Gaurav Singhal](https://github.com/gauravsinghal166)
