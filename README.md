@@ -19,9 +19,27 @@
 
 ---
 
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=gauravsinghal166&color=blue)
+
+---
+
 # 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghal166&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsinghal166&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=gauravsinghal166&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
@@ -44,39 +62,15 @@
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-LinkedIn  
-Twitter  
-Instagram  
-YouTube
+[LinkedIn](https://linkedin.com/)
+[Twitter](https://twitter.com/)
+[Instagram](https://www.instagram.com/gauravsinghal_16?igsh=Y3dqMHlsanlqd2Nh/)
+[YouTube](https://youtube.com/)
 
 ---
 
 ⭐ From [Gaurav Singhal](https://github.com/gauravsinghal166)
 
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=gauravsinghal166&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=gauravsinghal166&color=blue)
-
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/)
-[Twitter](https://twitter.com/)
-[Instagram](https://instagram.com/)
-[YouTube](https://youtube.com/)
-
-
 ![Snake animation](https://github.com/gauravsinghal166/gauravsinghal166/blob/output/github-contribution-grid-snake.svg)
-
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gauravsinghal166&theme=tokyo-night)
