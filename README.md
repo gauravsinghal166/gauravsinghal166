@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋 I'm Gaurav Singhal
 
-<!--
-**gauravsinghal166/gauravsinghal166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student from India  
+💻 Passionate about Web Development & Data Science  
+🚀 Currently learning Python, JavaScript & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git
+
+---
+
+## 📊 GitHub Stats
+
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+
+---
+
+## 🔥 Current Projects
+- Instagram Automation Bot
+- AI Chatbot
+- Digital Marketing Dashboard
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn
+- Twitter
+- YouTube
