@@ -17,21 +17,9 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gauravsinghal166&show_icons=true&theme=tokyonight
-
----
-
 # 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghal166&theme=tokyonight)
-
----
-
-# 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsinghal166&layout=compact&theme=tokyonight)
 
 ---
 
