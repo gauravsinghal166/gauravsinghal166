@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Gaurav Singhal
 
-🎓 BCA Student from India  
+🎓 BCA Student from New Delhi, India 🇮🇳 
 💻 Passionate about Software Development  
 🚀 Currently learning Python, Web Development & Data Science  
 
@@ -25,7 +25,7 @@
 
 # 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravsinghal166&theme=tokyonight)
 
 ---
 
