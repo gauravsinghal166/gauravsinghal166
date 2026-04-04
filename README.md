@@ -10,6 +10,10 @@
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsinghal166&show_icons=true&theme=tokyonight)
 
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=gauravsinghal166&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
 # 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
