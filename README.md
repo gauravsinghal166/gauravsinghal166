@@ -1,35 +1,66 @@
-# Hi 👋 I'm Gaurav Singhal
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Gaurav Singhal
 
 🎓 BCA Student from India  
-💻 Passionate about Web Development & Data Science  
-🚀 Currently learning Python, JavaScript & AI  
+💻 Passionate about Software Development  
+🚀 Currently learning Python, Web Development & Data Science  
 
 ---
 
-## 🚀 Skills
-- Python
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git
+# 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
-
----
-
-## 🔥 Current Projects
-- Instagram Automation Bot
-- AI Chatbot
-- Digital Marketing Dashboard
+![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
-- LinkedIn
-- Twitter
-- YouTube
+# 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+# 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🧠 Currently Learning
+
+- Data Science
+- Python Automation
+- Web Development
+- Open Source Contribution
+
+---
+
+# 🚀 Projects
+
+🔹 AI Chatbot  
+🔹 Instagram Automation Tool  
+🔹 Weather App using API  
+🔹 Student Management System  
+🔹 Personal Portfolio Website  
+
+---
+
+# 🌐 Connect With Me
+
+LinkedIn  
+Twitter  
+Instagram  
+YouTube
+
+---
+
+⭐ From [Gaurav Singhal](https://github.com/gauravsinghal166)
