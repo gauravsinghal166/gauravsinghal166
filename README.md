@@ -3,7 +3,7 @@
 
 🎓 BCA Student from New Delhi, India
 
-💻 Passionate about Software Development 
+💻 Passionate Developer
 
 🚀 Currently learning Python, Web Development & Data Science  
 
@@ -55,10 +55,6 @@
 
 # 🚀 Projects
 
-🔹 AI Chatbot  
-🔹 Instagram Automation Tool  
-🔹 Weather App using API  
-🔹 Student Management System  
 🔹 Personal Portfolio Website  
 
 ---
