@@ -59,13 +59,6 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/)
-[Twitter](https://twitter.com/)
-[Instagram](https://www.instagram.com/gauravsinghal_16?igsh=Y3dqMHlsanlqd2Nh/)
-[YouTube](https://youtube.com/)
-
 # 🌐 Connect With Me
 
 <p align="center">
@@ -89,25 +82,5 @@
 </p>
 
 ---
-
-<h3 align="center">🌐 Connect With Me</h3>
-
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40">
-</a>
-
-<a href="YOUR_TWITTER">
-<img src="https://skillicons.dev/icons?i=twitter" height="40">
-</a>
-
-<a href="YOUR_INSTAGRAM">
-<img src="https://skillicons.dev/icons?i=instagram" height="40">
-</a>
-
-<a href="YOUR_YOUTUBE">
-<img src="https://skillicons.dev/icons?i=youtube" height="40">
-</a>
-</p>
 
 ⭐ From [Gaurav Singhal](https://github.com/gauravsinghal166)
